@@ -2,6 +2,13 @@
   "expo": {
     "name": "myproject",
     "slug": "myproject",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "icon":"./img/icone.png",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./img/icone.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
   }
 }
